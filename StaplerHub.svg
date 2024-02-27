@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="177.5mm"
+   height="70mm"
+   viewBox="0 0 177.5 70"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="Stapler Hub.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.7198092"
+     inkscape:cx="374.40477"
+     inkscape:cy="429.28042"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#1b1b1b;fill-opacity:1;stroke-width:0.271838"
+       d="M 13.155552,0 C 5.8674738,0 0,5.440208 0,12.198209 v 45.603588 c 0,6.75801 5.8674738,12.19821 13.155552,12.19821 H 71.854898 V 0 Z"
+       sodipodi:nodetypes="ssssccs" />
+    <path
+       id="rect1-6"
+       style="fill:#ffa31a;fill-opacity:1;stroke-width:0.248404"
+       d="m 166.51492,70.000007 c 6.08566,-1e-5 10.9851,-5.44022 10.98508,-12.1982 V 12.198203 C 177.50002,5.440192 172.60057,-2e-6 166.51493,1.4e-5 l -49.01492,-4e-6 -1e-5,69.999987 z"
+       sodipodi:nodetypes="ssssccs" />
+    <rect
+       style="fill:#1b1b1b;fill-opacity:1;stroke-width:0.39661"
+       id="rect2"
+       width="47.5"
+       height="70"
+       x="70"
+       y="7.1580553e-06" />
+    <text
+       x="122.69357"
+       y="43.417076"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:Hack;-inkscape-font-specification:'Hack Bold';fill:#1b1b1b;fill-opacity:1;stroke-width:0.264583"
+       id="text5"><tspan
+         x="122.69357"
+         y="43.417076"
+         id="tspan5">Hub</tspan></text>
+    <text
+       x="13.733874"
+       y="41.228745"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:Hack;-inkscape-font-specification:'Hack Bold';fill:#ffa31a;fill-opacity:1;stroke-width:0.264583"
+       id="text6"><tspan
+         x="13.733874"
+         y="41.228745"
+         id="tspan6">Stapler</tspan></text>
+  </g>
+</svg>

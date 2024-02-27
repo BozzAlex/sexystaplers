@@ -1,0 +1,88 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+ .view-content.row{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: .5rem 1.5rem;
+}
+
+div.site-name-slogan {
+    width: auto;
+}
+
+nav#navbar-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.view-content.row > .views-row{    
+    padding: 1rem 1rem 0 1rem;
+    margin: 1rem 0 1rem 0;
+    display: grid;
+    gap: 0;
+    min-height: 100%;
+    grid-column: span 0;
+    grid-template-columns: subgrid;
+    grid-template-rows: subgrid;
+    grid-row: span 8;
+    box-shadow: var(--secondary) .2rem .2rem .8rem;
+    border-radius: 1.5rem;
+}
+
+img, img.image-style-medium {
+    aspect-ratio: 16:9;
+    margin: 2rem;
+}
+
+a.navbar-brand img {
+    max-width: 50%;
+}
+
+a.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (width >= 992px){
+    .view-content.row{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    nav#navbar-main {
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+    }
+
+    a.navbar-brand img {
+        max-width: 20rem;
+    }
+}
+
+.field--type-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+section.region-top-header-form, section.region-header-form {
+    margin-right: 0;
+} 
+
+button {
+    margin: 0.25rem 0 0.25rem 0;
+}
+
+article {
+    margin: 1rem !important;
+}

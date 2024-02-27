@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Bootstrap Barrio Subtheme.
+
+sexystaplers.settings:
+  type: sexystaplers.settings
+  label: 'sexystaplers settings'
